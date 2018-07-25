@@ -1,2 +1,5 @@
 this is a testfile to test git
-something new
+something new # this line is old
+
+i think i want to love you!
+can you give me a honor
